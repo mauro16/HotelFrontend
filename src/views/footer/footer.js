@@ -265,11 +265,11 @@ var Footer = props => {
                             <div className="col-md-8">
                                 <div className="customer-support-widget fl-wrap">
                                     <h4>Customer support : </h4>
-                                    <a href="tel:+19012300888" className="cs-mumber">
-                                        +1(901)2300888
+                                    <a href="tel:+49 00000000" className="cs-mumber">
+                                        +49(000)000000000
                     </a>
                                     <a
-                                        href="tel:+19012300888"
+                                        href="tel:+49 00000000"
                                         className="cs-mumber-button color2-bg"
                                     >
                                         Call Now <i className="far fa-phone-volume" />
@@ -287,8 +287,8 @@ var Footer = props => {
             <div className="sub-footer">
                 <div className="container">
                     <div className="copyright">
-                        {" "}
-                        © EasyBook 2018 . All rights reserved.
+                     
+                        © Flamingo Hotel Reservation 2020 . All rights reserved.
             </div>
                     <div className="subfooter-lang">
                         <div className="subfooter-show-lang">
